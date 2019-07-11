@@ -2,15 +2,14 @@
 <html class="no-js" lang="zxx">
 
 <head>
-    <title>Trang chủ</title>
+    <title>Trang chủ - Hộp cứng 3D</title>
     <?php include_once 'head.php' ?>
 </head>
-
 <body>
-
     <!--====================  header area ====================-->
     <?php include_once 'header-area.php' ?>
     <!--====================  End of header area  ====================-->
+
     <!--====================  hero slider area ====================-->
     <div class="hero-alider-area">
         <div class="hero-slider__container-area">
@@ -87,7 +86,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
-                        <h2 class="section-title section-space--bottom--50">Our Services <span class="title-icon"></span></h2>
+                        <h2 class="section-title section-space--bottom--50">Dịch vụ của chúng tôi <span class="title-icon"></span></h2>
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -112,7 +111,7 @@
                                                 <a href="service-details.html">Land Minning</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="service-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="service-details.html" class="see-more-link">XEM THÊM</a>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +133,7 @@
                                                 <a href="service-details.html">Work Management</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="service-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="service-details.html" class="see-more-link">XEM THÊM</a>
                                         </div>
                                     </div>
                                 </div>
@@ -156,7 +155,7 @@
                                                 <a href="service-details.html">Material Engineering</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="service-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="service-details.html" class="see-more-link">XEM THÊM</a>
                                         </div>
                                     </div>
                                 </div>
@@ -205,25 +204,25 @@
                             <div class="single-fact col-md-3 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-project.png" alt="">
                                 <h1 class="counter">598</h1>
-                                <h4>Project</h4>
+                                <h4>Sản phẩm</h4>
                             </div>
 
                             <div class="single-fact col-md-3 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-clients.png" alt="">
                                 <h1 class="counter">128</h1>
-                                <h4>Clients</h4>
+                                <h4>Khách hàng</h4>
                             </div>
 
                             <div class="single-fact col-md-3 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-success.png" alt="">
                                 <h1 class="counter">114</h1>
-                                <h4>Success</h4>
+                                <h4>Đã hoàn thành</h4>
                             </div>
 
                             <div class="single-fact col-md-3 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-award.png" alt="">
                                 <h1 class="counter">109</h1>
-                                <h4>Awards</h4>
+                                <h4>Giải thưởng</h4>
                             </div>
                         </div>
                     </div>
@@ -238,10 +237,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="video-cta-content">
-                        <h4 class="video-cta-content__small-title">ABOUT US</h4>
-                        <h3 class="video-cta-content__title">We are Best construction in the world</h3>
-                        <p class="video-cta-content__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
-                        <a href="contact.html" class="ht-btn ht-btn--round">CONTACT US</a>
+                        <h4 class="video-cta-content__small-title">VỀ CHÚNG TÔI</h4>
+                        <h3 class="video-cta-content__title">Những người tạo ra những chiếc hộp đẹp nhất</h3>
+                        <p class="video-cta-content__text">Với trang thiết bị hiện đại, cùng đội ngũ nhân viên lành nghề giày kinh nghiệm, In và sản xuất bao bì Tân Phát mang đến những sản phẩm có chất lượng cao, tiến độ giao hàng đám bảo, giá thành hợp lý nhằm đạp ứng yêu cầu và nhu cầu khách nhau của khách hàng.</p>
+                        <a href="contact.php" class="ht-btn ht-btn--round">LIÊN HỆ VỚI CHÚNG TÔI</a>
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 col-md-12">
@@ -393,7 +392,7 @@
                                     <div class="swiper-slide testimonial-slider__single-slide">
                                         <div class="author">
                                             <div class="author__image">
-                                                <img src="assets/img/testimonial/1.jpg" alt="">
+                                                <img src="assets/img/testimonial/dung.jpg" style="width: 100px; height: 100px;" alt="">
                                             </div>
                                             <div class="author__details">
                                                 <h4 class="name">Madison Black</h4>
@@ -407,7 +406,7 @@
                                     <div class="swiper-slide testimonial-slider__single-slide">
                                         <div class="author">
                                             <div class="author__image">
-                                                <img src="assets/img/testimonial/2.jpg" alt="">
+                                                <img src="assets/img/testimonial/dungdao.jpg" style="width: 100px; height: 100px;" alt="">
                                             </div>
                                             <div class="author__details">
                                                 <h4 class="name">Madison Black</h4>
@@ -421,7 +420,7 @@
                                     <div class="swiper-slide testimonial-slider__single-slide">
                                         <div class="author">
                                             <div class="author__image">
-                                                <img src="assets/img/testimonial/3.jpg" alt="">
+                                                <img src="assets/img/testimonial/duong.jpg" style="width: 100px; height: 100px;" alt="">
                                             </div>
                                             <div class="author__details">
                                                 <h4 class="name">Madison Black</h4>
@@ -543,9 +542,9 @@
                         <li class="menu-item-has-children">
                             <a href="service.html">Service</a>
                             <ul class="sub-menu">
-                                <li><a href="service.html">Service Page</a></li>
-                                <li><a href="service-details.html">Service Details Left Sidebar</a></li>
-                                <li><a href="service-details-right-sidebar.html">Service Details Right Sidebar</a></li>
+                                <li><a href="service.php">Service Page</a></li>
+                                <li><a href="service-details.php">Service Details Left Sidebar</a></li>
+                                <li><a href="service-details-right-sidebar.php">Service Details Right Sidebar</a></li>
                             </ul>
                         </li>
 
