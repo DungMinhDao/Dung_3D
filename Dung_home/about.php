@@ -287,70 +287,10 @@
         </div>
         <!--====================  End of team member area  ====================-->
         <!--====================  testimonial slider area ====================-->
-        <div class="testimonial-slider-area testimonial-slider-area-bg section-space--inner--120 bg-img" data-bg="assets/img/backgrounds/testimonial.jpg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-10 m-auto">
-                        <div class="testimonial-slider">
-                            <div class="testimonial-slider__container-area">
-                                <div class="swiper-container testimonial-slider__container">
-                                    <div class="swiper-wrapper testimonial-slider__wrapper">
-                                        <div class="swiper-slide testimonial-slider__single-slide">
-                                            <div class="author">
-                                                <div class="author__image">
-                                                    <img src="assets/img/testimonial/1.jpg" alt="">
-                                                </div>
-                                                <div class="author__details">
-                                                    <h4 class="name">Madison Black</h4>
-                                                    <div class="designation">Founder</div>
-                                                </div>
-                                            </div>
-                                            <div class="content">
-                                                Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide testimonial-slider__single-slide">
-                                            <div class="author">
-                                                <div class="author__image">
-                                                    <img src="assets/img/testimonial/2.jpg" alt="">
-                                                </div>
-                                                <div class="author__details">
-                                                    <h4 class="name">Madison Black</h4>
-                                                    <div class="designation">Founder</div>
-                                                </div>
-                                            </div>
-                                            <div class="content">
-                                                Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide testimonial-slider__single-slide">
-                                            <div class="author">
-                                                <div class="author__image">
-                                                    <img src="assets/img/testimonial/3.jpg" alt="">
-                                                </div>
-                                                <div class="author__details">
-                                                    <h4 class="name">Madison Black</h4>
-                                                    <div class="designation">Founder</div>
-                                                </div>
-                                            </div>
-                                            <div class="content">
-                                                Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-pagination swiper-pagination-3"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!--====================  End of testimonial slider area  ====================-->
         <!--====================  brand logo area ====================-->
         <?php include_once 'brand-logo-area.php' ?>
         <!--====================  End of brand logo area  ====================-->
-
     </div>
     <!--====================  footer area ====================-->
     <?php include_once 'footer-area.php' ?>
@@ -361,9 +301,7 @@
         <a href="javascript:void(0)" class="offcanvas-menu-close" id="mobile-menu-close-trigger">
             <i class="ion-android-close"></i>
         </a>
-
         <div class="offcanvas-wrapper">
-
             <div class="offcanvas-inner-content">
                 <div class="offcanvas-mobile-search-area">
                     <form action="#">
