@@ -19,7 +19,7 @@
                     <div class="page-banner text-center">
                         <h1>GIỚI THIỆU</h1>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.html">Trang Chủ</a></li>
+                            <li><a href="index.php">Trang Chủ</a></li>
                             <li>Về Chúng Tôi</li>
                         </ul>
                     </div>
@@ -50,7 +50,7 @@
                             <h1>50 Năm kinh nghiệm làm việc trong Hộp Đêm</h1>
                             <h4>In và sản xuất bao bì Tân Phát mang đến những sản phẩm có chất lượng cao, tiến độ giao hàng đám bảo, giá thành hợp lý nhằm đạp ứng yêu cầu và nhu cầu khách nhau của khách hàng.</h4>
                             <p>Với đội ngũ thợ được học và làm việc tại Quảng Đông- Trung Quốc 5 năm liền từ 2013-2018 về Việt Nam với mục tiêu phát triển bao bì hộp chia sẻ những công nghệ tiên tiến nhất ở nước nhà. Với mong muốn khách hàng giảm tối đa chi phí mua hộp bao bì tối đa nhất. Sự tin tưởng và ủng hộ của khách hàng trong suốt thời gian qua là nguồn động viên to lớn trên bước đường phát triển của In và sản xuất bao bì Tân Phát . Chúng tôi xin hứa sẽ không ngừng hoàn thiện, phục vụ khách hàng tốt nhất để luôn xứng đáng với niềm tin ấy.</p>
-                            <a href="service.html" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Dịch Vụ</a>
+                            <a href="service.php" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Dịch Vụ</a>
                         </div>
                     </div>
 
@@ -135,7 +135,7 @@
                         <div class="about-content about-content-2">
                             <p><br>Với phương châm “ Hợp tác để cùng thành công”, và định hướng “Liên tục cải tiến” In và sản xuất bao bì Tân Phát đã luôn nỗ lực cả về nhân lực, vật lực, xây dựng uy tín thương hiệu, niềm tin với khách hàng với những sản phẩm chúng tôi cung cấp.<br><br>
                             Sự tin tưởng và ủng hộ của khách hàng trong suốt thời gian qua là nguồn động viên to lớn trên bước đường phát triển của In và sản xuất bao bì Tân Phát . Chúng tôi xin hứa sẽ không ngừng hoàn thiện, phục vụ khách hàng tốt nhất để luôn xứng đáng với niềm tin ấy.</p>
-                            <a href="contact.html" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Liên hệ với Chúng tôi</a>
+                            <a href="contact.php" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Liên hệ với Chúng tôi</a>
                         </div>
                     </div>
 
@@ -314,25 +314,25 @@
                         <li class="menu-item-has-children">
                             <a href="#">Home</a>
                             <ul class="sub-menu">
-                                <li><a href="index.html">Homepage One</a></li>
-                                <li><a href="index-2.html">Homepage Two</a></li>
+                                <li><a href="index.php">Homepage One</a></li>
+                                <li><a href="index-2.php">Homepage Two</a></li>
                             </ul>
                         </li>
-                        <li><a href="about.html">About</a></li>
+                        <li><a href="about.php">About</a></li>
                         <li class="menu-item-has-children">
-                            <a href="service.html">Service</a>
+                            <a href="service.php">Service</a>
                             <ul class="sub-menu">
-                                <li><a href="service.html">Service Page</a></li>
-                                <li><a href="service-details.html">Service Details Left Sidebar</a></li>
-                                <li><a href="service-details-right-sidebar.html">Service Details Right Sidebar</a></li>
+                                <li><a href="service.php">Service Page</a></li>
+                                <li><a href="service-details.php">Service Details Left Sidebar</a></li>
+                                <li><a href="service-details-right-sidebar.php">Service Details Right Sidebar</a></li>
                             </ul>
                         </li>
 
                         <li class="menu-item-has-children">
                             <a href="javascript:void(0)">Project</a>
                             <ul class="sub-menu">
-                                <li><a href="project.html">Project Page</a></li>
-                                <li><a href="project-details.html">Project Details</a></li>
+                                <li><a href="project.php">Project Page</a></li>
+                                <li><a href="project-details.php">Project Details</a></li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Submenu Level One</a>
                                     <ul class="sub-menu">
@@ -373,13 +373,13 @@
                         <li class="menu-item-has-children">
                             <a href="javascript:void(0)">Blog</a>
                             <ul class="sub-menu">
-                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                <li><a href="blog-details-left-sidebar.html">Blog Details Left Sidebar</a></li>
-                                <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
+                                <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                <li><a href="blog-details-left-sidebar.php">Blog Details Left Sidebar</a></li>
+                                <li><a href="blog-details-right-sidebar.php">Blog Details Right Sidebar</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </nav>
 
