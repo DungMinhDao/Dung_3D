@@ -1,2 +1,9 @@
 ---11/7/2019 9:08AM---
 style.css width:98% (4512)
+
+15/7/2019
+ATTENTION
+t đã thêm 2 file rút gọn vào dung_admin (head_adm & sidebar_adm)
+file head_adm là phần link h ở mỗi thẻ head
+sidebar_adm ở gần đầu thẻ body <tên sẽ thống nhất sau>
+2 ông chú ý chút nhé
